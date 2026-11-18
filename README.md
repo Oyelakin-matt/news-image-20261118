@@ -6,6 +6,8 @@
 
 A program that writes one image summing up Wednesday 18 November 2026's world news — Peltola flips Alaska and the Democrats take the Senate 56–44, the US strikes an Iranian missile site on Qeshm Island, the Kerch Bridge span falls on a second day of strikes, the US loses its measles-free status, Nvidia sales top $100bn — to /output/entry.png.
 
+The image is drawn with Python and Pillow; every story in it was reported on 18 November 2026.
+
 ## Run it
 
 ```sh

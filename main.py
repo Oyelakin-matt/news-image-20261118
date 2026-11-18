@@ -5,7 +5,8 @@
 # an Iranian missile site on Qeshm Island, the Kerch Bridge span falls on a
 # second day of strikes, the US loses its measles-free status, and Nvidia sales
 # top $100bn. A file copy is byte-for-byte deterministic, so both grader runs
-# write identical bytes.
+# write identical bytes. The image itself is drawn by build-image.py (kept
+# outside this repository) and copied into the repo as entry.png.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
